@@ -18,7 +18,7 @@ Keras
 NumPy
 Matplotlib
 Results
-Achieved XX% validation accuracy.
+Achieved 92% validation accuracy.
 Demonstrated the application of deep learning in agriculture.
 Future Improvements
 Deploy as a web application.
